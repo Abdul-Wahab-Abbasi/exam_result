@@ -1,0 +1,17 @@
+initialize project
+npm init -y
+
+install packages
+npm install xlsx
+npm install readline-sync
+
+after installing readline-sync package:
+npm i --save-dev @types/readline-sync
+
+create configuration for ts
+npx tsc --init
+
+
+for compiling typescript file
+npx tsc
+
