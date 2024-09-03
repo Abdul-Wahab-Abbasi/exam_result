@@ -43,6 +43,8 @@ npx tsc
 ```bash
 node index.js
 ```
+## Video Tutorial
+[wahababbasi923@gmail.com](https://youtu.be/PKz20K9QxpY)
 ## Usage
 - Run the application and enter your roll number when prompted.
 - The app will search the Excel file and display whether you passed or failed the exam.
@@ -53,7 +55,6 @@ Contributions are welcome! If you find any issues or have suggestions, feel free
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Contact
 For any inquiries, please contact wahababbasi923@gmail.com
